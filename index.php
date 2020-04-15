@@ -1,1 +1,6 @@
-<?php header('Location: /index.html') ; ?>
+<?php header('Location: /index.html') ; 
+
+/*
+ Arquivo para que o servidor veja o site e publique
+ */
+?>
